@@ -1,0 +1,6 @@
+# requirements.txt
+# 项目依赖包列表
+
+torch>=1.10.0
+numpy
+matplotlib
